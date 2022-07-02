@@ -1,5 +1,9 @@
-
 body {
 	background-image: 'pexels-lukas-616401.jpg'
 		
+}
+.page_title {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 40px;
+	color: #666666;
 }
