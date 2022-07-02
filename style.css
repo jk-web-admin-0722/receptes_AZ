@@ -18,7 +18,11 @@ height: 100%;
   margin: auto;
 	
 }
-
+.big_div {
+width: 1024px;
+	position: absolute;
+  margin: auto;
+}
 .in_bilde {
 float: left;
 }
