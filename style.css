@@ -1,6 +1,7 @@
 body {
 	background-image: url("images/pexels-lukas-616401.jpg");
-	background-size: auto;	
+	background-size: auto;
+		
 }
 .page_title {
 	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
@@ -12,7 +13,6 @@ body {
 	text-align:  center;
 	width: 1024px;
 	position: fixed;
-    top: 50%;
     left: 50%;
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
