@@ -8,14 +8,16 @@ body {
 	color: #666666;
 	margin-top:  30px;
 	padding-bottom: 50px;
-	border-bottom: solid 1px #000
+	border-bottom: solid 1px #000;
+	text-align:  center;
+	width: 1024px;
 	
 }
 .in_bilde {
-float: left
+float: left;
 }
 .in_text {
-float: left
+float: left;
 }
 
 .big_div {
