@@ -1,5 +1,5 @@
 body {
-	background-image: url('pexels-lukas-616401.jpg')
+	background-image: url("pexels-lukas-616401.jpg");
 		
 }
 .page_title {
@@ -13,6 +13,7 @@ body {
 	width: 1024px;
 	
 }
+
 .in_bilde {
 float: left;
 }
