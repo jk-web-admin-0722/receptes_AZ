@@ -30,6 +30,8 @@ width: 1024px;
 	height:  150px;
     top:100px;
 	 display: block;
+	background-color:  #fff;
+	opacity:  50%
 }
 .in_bilde {
 float: left;
