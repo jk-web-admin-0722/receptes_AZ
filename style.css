@@ -31,7 +31,8 @@ width: 1024px;
     top:100px;
 	 display: block;
 	background-color:  #fff;
-	opacity:  50%
+	opacity:  50%;
+	padding: 15px
 }
 .in_bilde {
 float: left;
@@ -45,7 +46,9 @@ float: right;
 .in_text2 {
 float: right;
 }
-
+.img_design {
+	height: 100px
+}
 .big_div {
 	border: solid 1px #ccc;
 	border-radius: 10px;
