@@ -39,6 +39,12 @@ float: left;
 .in_text {
 float: left;
 }
+.in_bilde2 {
+float: right;
+}
+.in_text2 {
+float: right;
+}
 
 .big_div {
 	border: solid 1px #ccc;
