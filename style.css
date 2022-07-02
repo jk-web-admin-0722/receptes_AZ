@@ -7,3 +7,18 @@ body {
 	font-size: 40px;
 	color: #666666;
 }
+.in_bilde {
+float: left
+}
+.in_text {
+float: left
+}
+
+big_div {
+	border: solid 1px #ccc;
+	border-radius: 10px;
+	padding:  20px;
+	width: 500px;
+	margin: 30px
+		
+}
