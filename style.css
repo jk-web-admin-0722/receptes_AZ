@@ -1,6 +1,6 @@
 body {
-	background-image: url("images/pexels-lukas-616401.jpg");
-	background-size: auto;
+ background: url(images/pexels-lukas-616401.jpg);
+  background-repeat: no-repeat;
 		
 }
 .page_title {
@@ -12,10 +12,12 @@ body {
 	border-bottom: solid 1px #000;
 	text-align:  center;
 	width: 1024px;
-	position: fixed;
-    left: 50%;
-    -webkit-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
+	position: absolute;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
 	
 }
 
