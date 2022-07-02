@@ -1,11 +1,15 @@
 body {
-	background-image: url('xels-lukas-616401.jpg')
+	background-image: url('pixels-lukas-616401.jpg')
 		
 }
 .page_title {
 	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
 	font-size: 40px;
 	color: #666666;
+	margin-top:  30px;
+	padding-bottom: 50px;
+	border-bottom: solid 1px #000
+	
 }
 .in_bilde {
 float: left
